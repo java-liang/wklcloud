@@ -13,6 +13,8 @@
         <module name="cloud-provider-payment8001" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8003" />
+        <module name="cloud-provider-payment8004" />
+        <module name="cloud-providerconsul-payment8006" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +26,8 @@
       <module name="cloud-provider-payment8001 (1)" target="1.8" />
       <module name="cloud-provider-payment8002" target="1.8" />
       <module name="cloud-provider-payment8003" target="1.8" />
+      <module name="cloud-provider-payment8004" target="1.8" />
+      <module name="cloud-providerconsul-payment8006" target="1.8" />
       <module name="wklcloud2020" target="1.8" />
     </bytecodeTargetLevel>
   </component>
